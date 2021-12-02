@@ -1,0 +1,54 @@
+.home-header {
+    font-family: 'Poppins', sans-serif;
+}
+
+.home-form {
+    --inner-padding-top: -5px;
+    --border-radius: 7.5px;
+    margin: 0px;
+}
+
+.home-search {
+    font-family: "Poppins", sans-serif;
+    font-size: 14px;
+    background-color: white;
+}
+
+.profile-button {
+    text-align: center;
+}
+
+.profile-button ion-icon {
+    font-size: 48px;
+}
+
+.home-header .header-text .left-header-text {
+    font-size: 12px;
+    margin: 0px;
+}
+
+.home-header .header-text .right-header-text {
+    text-align: right;
+    font-size: 10px;
+}
+
+.home-header .header-category ion-col{
+    text-align: center;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.home-menu-category {
+    padding: 8px 0 4px 0;
+    height: fit-content;
+    background-color: white;
+    box-shadow: 0 2px 2px 1px rgba(0, 0, 0, 0.1);
+    border: 1px solid #fdfafa;
+    border-radius: 20px;
+    font-size: 11px;
+}
+
+.error-api {
+    text-align: center;
+    font-weight: bold;
+}

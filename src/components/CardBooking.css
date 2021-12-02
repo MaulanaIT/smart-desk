@@ -1,0 +1,20 @@
+.book-card {
+    padding: 10px;
+}
+
+.book-detail {
+    font-size: 10px;
+}
+
+.book-detail ion-row {
+    font-size: 10px;
+    margin-top: -8px;
+    margin-left: -10px;
+}
+
+hr {
+    background-color: #EEDDCC;
+    visibility: visible;
+    margin-bottom: 15px;
+    opacity: 0.7;
+}

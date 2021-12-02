@@ -1,0 +1,18 @@
+.container-regs {
+    width: 100vw;
+    height: 100vh;
+    padding: 20px 30px 20px 20px;
+}
+
+.header-regs {
+    font-size: 20px;
+    width: 60vw;
+}
+
+.header-regs h1{
+    font-size: 20px;
+}
+
+.header-regs p{
+    font-size: 14px;
+}

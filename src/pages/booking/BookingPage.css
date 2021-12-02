@@ -1,0 +1,11 @@
+ion-segment-button {
+    text-transform: none;
+}
+
+.segment-label {
+    font-size: 12px;
+}
+
+.header-book-text {
+    padding-left: 10px;
+}

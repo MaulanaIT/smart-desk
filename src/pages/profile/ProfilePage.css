@@ -1,0 +1,34 @@
+.profil-header {
+    background-color: #EEDDCC;
+    text-align: center;
+    font-size: 18px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.profil-card {
+    margin-top: 15%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: left;
+}
+
+.profil-card-item {
+    font-size: 14px;
+}
+
+.profil-header h1 {
+    margin: 0px;
+    font-size: 18px;
+}
+
+.header-icon {
+    font-size: 128px;
+}
+
+.profil-icon {
+    margin-right: 10px;
+    font-size: 14px;
+}
