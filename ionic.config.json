@@ -1,0 +1,7 @@
+{
+  "name": "smart-desker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
