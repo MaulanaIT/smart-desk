@@ -1,12 +1,10 @@
-<<<<<<< HEAD
-node_modules
-=======
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
 /node_modules
 /android
 /ios
+/build
 /.pnp
 .pnp.js
 
@@ -31,4 +29,3 @@ yarn-error.log*
 
 # Optional eslint cache
 .eslintcache
->>>>>>> 35db456df9af9f9218576df9713bbf627f62fe5e
